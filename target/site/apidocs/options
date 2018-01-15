@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/domin/.m2/repository/mysql/mysql-connector-java/8.0.8-dmr/mysql-connector-java-8.0.8-dmr.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/domin/Documents/NetBeansProjects/NetBest2/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2018. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/domin/Documents/NetBeansProjects/NetBest2/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'NetBest 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Users/domin/Documents/NetBeansProjects/NetBest2/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'NetBest 1.0-SNAPSHOT API'
